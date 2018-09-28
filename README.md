@@ -8,7 +8,7 @@ Python 2.7.x +
 
 ### Usage
 
-make-htdigest.py -u \<username\> -r \<realm\> -f \<wordlist>\
+make-htdigest.py -u \<username\> -r \<realm\> -f \<wordlist>
 
 ### High Level Description on how it works:
 
